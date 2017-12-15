@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'bundler', '~> 1.14.3'
+gem 'bundler', '>= 1.14.3'
 gem 'rake', '~> 12.0'
 
 group :development do
