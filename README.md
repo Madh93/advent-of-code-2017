@@ -8,7 +8,7 @@ My Ruby solutions for [Advent of Code 2017](http://adventofcode.com/2017).
 - [ ] Day 3: [Spiral Memory](http://adventofcode.com/2017/day/3)
 - [x] Day 4: [High-Entropy Passphrases](http://adventofcode.com/2017/day/4) -> [Solution](https://github.com/Madh93/advent-of-code-2017/blob/master/lib/aoc2017/day04/high_entropy_passphrases.rb)
 - [x] Day 5: [A Maze of Twisty Trampolines, All Alike](http://adventofcode.com/2017/day/5) -> [Solution](https://github.com/Madh93/advent-of-code-2017/blob/master/lib/aoc2017/day05/maze_of_trampolines.rb)
-- [ ] Day 6: [Memory Reallocation](http://adventofcode.com/2017/day/6)
+- [x] Day 6: [Memory Reallocation](http://adventofcode.com/2017/day/6) -> [Solution](https://github.com/Madh93/advent-of-code-2017/blob/master/lib/aoc2017/day06/memory_reallocation.rb)
 - [ ] Day 7: [Recursive Circus](http://adventofcode.com/2017/day/7)
 - [ ] Day 8: [I Heard You Like Registers](http://adventofcode.com/2017/day/6)
 - [ ] Day 9: [Stream Processing](http://adventofcode.com/2017/day/9)
